@@ -100,7 +100,7 @@
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <td align="center" width="50%">
-      <img src="https://m5stack.com/cdn/shop/files/M5StickCPlus2_01.webp" width="150" alt="M5StickC Plus2" />
+      <img src="https://devices.esphome.io/_astro/m5stickcplus2.C4oyeMtw_ZYbgWd.webp" width="150" alt="M5StickC Plus2" />
       <br><strong>M5StickC Plus2 Hacker</strong><br>
       Developing IoT automation and pushing custom firmwares to <a href="https://m5burner.m5stack.com/">M5Burner</a>.
     </td>
