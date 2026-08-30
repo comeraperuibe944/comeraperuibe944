@@ -101,7 +101,7 @@
   <tr>
     <td align="center" width="50%">
       <img src="https://devices.esphome.io/_astro/m5stickcplus2.C4oyeMtw_ZYbgWd.webp" width="150" alt="M5StickC Plus2" />
-      <br><strong>M5StickC Plus2 Hacker</strong><br>
+      <br><strong>M5StickC Plus2 Developer</strong><br>
       Developing IoT automation and pushing custom firmwares to <a href="https://m5burner.m5stack.com/">M5Burner</a>.
     </td>
     <td align="center" width="50%">
