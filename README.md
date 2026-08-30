@@ -14,7 +14,7 @@
   <img src="https://cdn.simpleicons.org/assemblyscript/white" width="16" /> Continually expanding my knowledge in <strong>Distributed Systems, WebAssembly, and Automation</strong> to deliver robust engineering solutions.
 </p>
 
-## [ <img src="https://cdn.simpleicons.org/rocket/white" width="20" align="top" /> Tech Stack ]
+## [ <img src="https://cdn.simpleicons.org/codesandbox/white" width="20" align="top" /> Tech Stack ]
 
 ### Low-Level & Systems
 <p align="left">
