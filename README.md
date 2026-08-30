@@ -1,26 +1,18 @@
-<h1 align="center">Hi there, I'm comeraperuibe944 👋</h1>
-<h3 align="center">A passionate Software Engineer & Systems Architect</h3>
+<h1 align="center">Software Engineer & Systems Architect</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=comeraperuibe944&label=Profile%20views&color=0e75b6&style=flat" alt="comeraperuibe944" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/comeraperuibe944">
-    <img src="https://github-readme-stats.vercel.app/api?username=comeraperuibe944&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdae&icon_color=38bdae" alt="comeraperuibe944's GitHub stats" width="48%"/>
-  </a>
-  <a href="https://github.com/comeraperuibe944">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=comeraperuibe944&theme=tokyonight&hide_border=true&title_color=38bdae&icon_color=38bdae&background=1a1b27" alt="comeraperuibe944's Streak" width="48%"/>
-  </a>
+## [ About Me ]
+<p>
+  <img src="https://cdn.simpleicons.org/linux/white" width="16" height="16" align="center" /> I am currently working on complex <strong>Systems Architecture, Kernel I/O Optimization, and Cloud Infrastructure</strong>.<br><br>
+  <img src="https://cdn.simpleicons.org/c/white" width="16" height="16" align="center" /> Deeply interested in <strong>Operating Systems, Concurrency (async/await), High-Performance Computing, and WebAssembly</strong>.<br><br>
+  <img src="https://cdn.simpleicons.org/gnubash/white" width="16" height="16" align="center" /> I focus on dissecting Linux internals, tuning process schedulers (CFS), and managing extreme low-latency I/O operations (like WebSockets and Pseudo-Terminals).<br><br>
+  <img src="https://cdn.simpleicons.org/bookstack/white" width="16" height="16" align="center" /> Constantly learning about <strong>Low-Level Programming, Distributed Systems, and Advanced CI/CD Automations</strong>.
 </p>
 
-## 🚀 About Me
-- 💻 I'm currently working on complex **Systems Architecture, Kernel I/O Optimization, and Cloud Infrastructure**.
-- 🧠 Deeply interested in **Operating Systems, Concurrency (async/await), High-Performance Computing, and WebAssembly**.
-- ⚙️ I love dissecting Linux internals, tuning process schedulers (CFS), and managing extreme low-latency I/O operations (like WebSockets and Pseudo-Terminals).
-- 🎓 I’m constantly learning about **Low-Level Programming, Distributed Systems, and Advanced CI/CD Automations**.
-
-## 🛠️ Tech Stack & Tools
+## [ Tech Stack & Tools ]
 
 ### Languages
 <p align="left">
@@ -48,9 +40,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=comeraperuibe944&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=38bdae&line=38bdae&point=ffffff" />
-</p>
+## [ Contribution Graph ]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/comeraperuibe944/comeraperuibe944/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/comeraperuibe944/comeraperuibe944/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/comeraperuibe944/comeraperuibe944/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdae&height=100&section=footer"/>
