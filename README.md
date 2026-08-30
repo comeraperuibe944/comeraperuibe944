@@ -1,27 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=38BDAE&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+comeraperuibe944;Senior+Systems+Architect;Low-Level+Performance+Engineer;Cloud+%26+Bare-Metal+Enthusiast;Full-Stack+Web+Wizard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=38BDAE&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+comeraperuibe944;Senior+Software+Engineer;Systems+Architecture;Cloud+Infrastructure;Full-Stack+Development" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=comeraperuibe944&label=Profile%20views&color=38bdae&style=flat" alt="Views" />
 </p>
 
-## [ <img src="https://cdn.simpleicons.org/github/white" width="20" align="top" /> GitHub Trophies ]
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=comeraperuibe944&theme=tokyonight&no-frame=true&margin-w=15&column=6" alt="Trophies" />
-  </a>
-</p>
-
-## [ <img src="https://cdn.simpleicons.org/gnubash/white" width="20" align="top" /> About My Architecture ]
+## [ <img src="https://cdn.simpleicons.org/gnubash/white" width="20" align="top" /> About Me ]
 <p>
-  <img src="https://cdn.simpleicons.org/linux/white" width="16" /> I am a <strong>Low-Level Systems Engineer, Web Developer & Cloud Architect</strong> obsessed with performance, concurrency, and bare-metal execution.<br><br>
-  <img src="https://cdn.simpleicons.org/rust/white" width="16" /> My core expertise revolves around <strong>Memory Management, Process Schedulers, Web Ecosystems, and High-Throughput I/O</strong>.<br><br>
-  <img src="https://cdn.simpleicons.org/docker/white" width="16" /> I design highly scalable, fault-tolerant infrastructure using <strong>Containers, Kubernetes, and Cloud-Native paradigms</strong>.<br><br>
-  <img src="https://cdn.simpleicons.org/assemblyscript/white" width="16" /> Exploring the bleeding edge of <strong>WebAssembly (Wasm), Embedded Systems, and Reverse Engineering</strong>.
+  <img src="https://cdn.simpleicons.org/linux/white" width="16" /> I am a <strong>Software Engineer and Systems Architect</strong> focused on high-performance backend systems, scalable cloud infrastructure, and full-stack web development.<br><br>
+  <img src="https://cdn.simpleicons.org/rust/white" width="16" /> My technical experience spans across <strong>Systems Programming, API Design, and High-Throughput Data Processing</strong>.<br><br>
+  <img src="https://cdn.simpleicons.org/docker/white" width="16" /> I design and maintain highly available environments utilizing <strong>Containers, Kubernetes, and Modern DevOps Practices</strong>.<br><br>
+  <img src="https://cdn.simpleicons.org/assemblyscript/white" width="16" /> Continually expanding my knowledge in <strong>Distributed Systems, WebAssembly, and Automation</strong> to deliver robust engineering solutions.
 </p>
 
-## [ <img src="https://cdn.simpleicons.org/rocket/white" width="20" align="top" /> The Tech Arsenal ]
+## [ <img src="https://cdn.simpleicons.org/rocket/white" width="20" align="top" /> Tech Stack ]
 
 ### Low-Level & Systems
 <p align="left">
@@ -100,7 +93,7 @@
 
 ---
 
-## [ <img src="https://cdn.simpleicons.org/googleanalytics/white" width="20" align="top" /> Dynamic Telemetry ]
+## [ <img src="https://cdn.simpleicons.org/googleanalytics/white" width="20" align="top" /> Overview & Activity ]
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=comeraperuibe944&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdae&icon_color=38bdae&cache_seconds=86400" alt="Stats" width="48%" />
@@ -112,7 +105,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=comeraperuibe944&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=38bdae&line=38bdae&point=ffffff" width="48%" />
 </p>
 
-## [ <img src="https://cdn.simpleicons.org/matrix/white" width="20" align="top" /> Automations: Contribution Snake ]
+## [ <img src="https://cdn.simpleicons.org/matrix/white" width="20" align="top" /> Contributions ]
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/comeraperuibe944/comeraperuibe944/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/comeraperuibe944/comeraperuibe944/output/github-contribution-grid-snake.svg">
