@@ -93,16 +93,36 @@
 
 ---
 
+## [ <img src="https://cdn.simpleicons.org/hackthebox/white" width="20" align="top" /> Hardware & Projects ]
+
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://m5stack.com/cdn/shop/files/M5StickCPlus2_01.webp" width="150" alt="M5StickC Plus2" />
+      <br><strong>M5StickC Plus2 Hacker</strong><br>
+      Developing IoT automation and pushing custom firmwares to <a href="https://m5burner.m5stack.com/">M5Burner</a>.
+    </td>
+    <td align="center" width="50%">
+      <img src="https://web.archive.org/web/20090829151527im_/http://geocities.com/SunsetStrip/Arena/8086/flames.gif" width="150" height="20" />
+      <br><strong>Chiptune & GameDev</strong><br>
+      Creator of the <a href="https://blaqberry.itch.io/undertale-gbc">Undertale GB (GBC)</a> project and active maintainer of a modified <strong>FamiStudio Fork</strong> for custom audio synthesis.
+    </td>
+  </tr>
+</table>
+
 ## [ <img src="https://cdn.simpleicons.org/googleanalytics/white" width="20" align="top" /> Overview & Activity ]
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=comeraperuibe944&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdae&icon_color=38bdae&cache_seconds=86400" alt="Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=comeraperuibe944&theme=tokyonight&hide_border=true&title_color=38bdae&icon_color=38bdae&background=1a1b27" alt="Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=comeraperuibe944&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=38bdae&line=38bdae&point=ffffff" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comeraperuibe944&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdae&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=comeraperuibe944&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=38bdae&line=38bdae&point=ffffff" width="48%" />
+  <img src="https://cyber.dabamos.de/88x31/linux.gif" />
+  <img src="https://cyber.dabamos.de/88x31/vim.gif" />
+  <img src="https://cyber.dabamos.de/88x31/arch.gif" />
+  <img src="https://cyber.dabamos.de/88x31/c.gif" />
+  <img src="https://cyber.dabamos.de/88x31/python.gif" />
 </p>
 
 ## [ <img src="https://cdn.simpleicons.org/matrix/white" width="20" align="top" /> Contributions ]
