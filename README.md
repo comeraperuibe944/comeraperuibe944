@@ -112,6 +112,39 @@
   </tr>
 </table>
 
+## [ <img src="https://cdn.simpleicons.org/blueprint/white" width="20" align="top" /> Featured Work & Deployments ]
+
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" width="50%">
+      <a href="http://168.138.128.160/">
+        <img src="./dashboard.png" width="400" alt="Oracle Dashboard" style="border-radius: 8px;" />
+      </a>
+      <br><strong>Cloud Server Dashboard & Web PTY</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://cepin-jcr.github.io/mapeamento-cultural/">
+        <img src="./mapa.png" width="400" alt="Mapeamento Cultural" style="border-radius: 8px;" />
+      </a>
+      <br><strong>Mapeamento Cultural</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://cepin-jcr.github.io/carnaval-feminino/">
+        <img src="./carnaval.png" width="400" alt="Carnaval Feminino" style="border-radius: 8px;" />
+      </a>
+      <br><strong>Carnaval Feminino (Interactive Web)</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://blaqberry.itch.io/undertale-gbc">
+        <img src="./undertale.png" width="400" alt="Undertale GB" style="border-radius: 8px;" />
+      </a>
+      <br><strong>Undertale GB (GameDev & Chiptune)</strong>
+    </td>
+  </tr>
+</table>
+
 ## [ <img src="https://cdn.simpleicons.org/googleanalytics/white" width="20" align="top" /> Overview & Activity ]
 
 <p align="center">
