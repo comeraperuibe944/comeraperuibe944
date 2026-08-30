@@ -107,7 +107,7 @@
     <td align="center" width="50%">
       <img src="https://web.archive.org/web/20090829151527im_/http://geocities.com/SunsetStrip/Arena/8086/flames.gif" width="150" height="20" />
       <br><strong>Chiptune & GameDev</strong><br>
-      Creator of the <a href="https://blaqberry.itch.io/undertale-gbc">Undertale GB (GBC)</a> project and active maintainer of a modified <strong>FamiStudio Fork</strong> for custom audio synthesis.
+      Core Contributor & Composer for the <a href="https://blaqberry.itch.io/undertale-gbc">Undertale GB (GBC)</a> project and active maintainer of a modified <strong>FamiStudio Fork</strong> for custom audio synthesis.
     </td>
   </tr>
 </table>
