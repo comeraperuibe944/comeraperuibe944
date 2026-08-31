@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=38BDAE&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+comeraperuibe944;Senior+Software+Engineer;Systems+Architecture;Cloud+Infrastructure;Full-Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=38BDAE&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+comeraperuibe944;Software+Engineering+Student;Systems+Architecture;Cloud+Infrastructure;Full-Stack+Development" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ## [ <img src="https://cdn.simpleicons.org/gnubash/white" width="20" align="top" /> About Me ]
 <p>
-  <img src="https://cdn.simpleicons.org/linux/white" width="16" /> I am a <strong>Software Engineer and Systems Architect</strong> focused on high-performance backend systems, scalable cloud infrastructure, and full-stack web development.<br><br>
+  <img src="https://cdn.simpleicons.org/linux/white" width="16" /> I am a <strong>Software Engineering Student & Researcher</strong> focused on high-performance backend systems, scalable cloud infrastructure, and full-stack web development.<br><br>
   <img src="https://cdn.simpleicons.org/rust/white" width="16" /> My technical experience spans across <strong>Systems Programming, API Design, and High-Throughput Data Processing</strong>.<br><br>
   <img src="https://cdn.simpleicons.org/docker/white" width="16" /> I design and maintain highly available environments utilizing <strong>Containers, Kubernetes, and Modern DevOps Practices</strong>.<br><br>
   <img src="https://cdn.simpleicons.org/assemblyscript/white" width="16" /> Continually expanding my knowledge in <strong>Distributed Systems, WebAssembly, and Automation</strong> to deliver robust engineering solutions.<br><br>
@@ -118,7 +118,7 @@
   I am profoundly passionate about <strong>Retro Emulation and Chiptune music</strong>. From exploring the 8-bit audio channels of the NES (Famicom) and Game Boy, to running full emulation stacks for classic 3D graphics, my fascination with low-level systems is heavily inspired by video game hardware history.
 </p>
 
-### 👾 Hardware & Emulation Targets
+### Hardware & Emulation Targets
 <p align="left">
   <!-- Nintendo -->
   <img src="https://img.shields.io/badge/NES-E4000F?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIgNWgyMHYxNEgyem0yIDJ2MTBoMTZWN3ptMiA0aDJWOWgydjJoMnYyaC0ydjJIOHYtMkg2em04IDFhMSAxIDAgMTAwLTIgMSAxIDAgMDAwIDJ6bTMgMGExIDEgMCAxMDAtMiAxIDEgMCAwMDAgMnoiLz48L3N2Zz4%3D" />
