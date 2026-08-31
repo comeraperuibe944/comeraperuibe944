@@ -11,7 +11,7 @@
   <img src="https://cdn.simpleicons.org/linux/white" width="16" /> I am a <strong>Software Engineering Student & Researcher</strong> focused on high-performance backend systems, scalable cloud infrastructure, and full-stack web development.<br><br>
   <img src="https://cdn.simpleicons.org/rust/white" width="16" /> My technical experience spans across <strong>Systems Programming, API Design, and High-Throughput Data Processing</strong>.<br><br>
   <img src="https://cdn.simpleicons.org/docker/white" width="16" /> I design and maintain highly available environments utilizing <strong>Containers, Kubernetes, and Modern DevOps Practices</strong>.<br><br>
-  <img src="https://cdn.simpleicons.org/assemblyscript/white" width="16" /> Continually expanding my knowledge in <strong>Distributed Systems, WebAssembly, and Automation</strong> to deliver robust engineering solutions.<br><br>
+  <img src="https://cdn.simpleicons.org/c/white" width="16" /> Continually expanding my knowledge in <strong>C, Python, Computer Architecture, Opcodes, and SIMD Hardware Optimization</strong>.<br><br>
   <img src="https://cdn.simpleicons.org/scratch/white" width="16" /> Started my journey as a <strong>Scratch Creator</strong>, which ignited my lifelong passion for game development and logic.
 </p>
 
