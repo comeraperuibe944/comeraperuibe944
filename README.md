@@ -112,7 +112,7 @@
   </tr>
 </table>
 
-## [ <img src="https://cdn.simpleicons.org/retroarch/white" width="20" align="top" /> Retro Emulation & Gaming ]
+## [ <img src="https://cdn.simpleicons.org/retroarch/white" width="20" align="top" /> Retro Emulation ]
 
 <p>
   I am profoundly passionate about <strong>Retro Emulation and Chiptune music</strong>. From exploring the 8-bit audio channels of the NES (Famicom) and Game Boy, to running full emulation stacks for classic 3D graphics, my fascination with low-level systems is heavily inspired by video game hardware history.
