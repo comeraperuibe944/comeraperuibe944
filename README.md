@@ -196,6 +196,26 @@
   <img src="https://cyber.dabamos.de/88x31/python.gif" />
 </p>
 
+## [ <img src="https://cdn.simpleicons.org/github/white" width="20" align="top" /> GitHub Achievements ]
+
+<p align="center">
+  <a href="https://github.com/comeraperuibe944?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="90" alt="Pull Shark (Bronze x2)" title="Pull Shark (Bronze x2)" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/comeraperuibe944?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="90" alt="Pair Extraordinaire (Bronze / Silver)" title="Pair Extraordinaire (Bronze / Silver)" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/comeraperuibe944?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw" title="Quickdraw" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/comeraperuibe944?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO" title="YOLO" />
+  </a>
+</p>
+
 ## [ <img src="https://cdn.simpleicons.org/matrix/white" width="20" align="top" /> Contributions ]
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/comeraperuibe944/comeraperuibe944/output/github-contribution-grid-snake-dark.svg">
