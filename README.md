@@ -154,7 +154,7 @@
 
 <p align="center">
   <img src="https://cyber.dabamos.de/88x31/linux.gif" />
-  <img src="https://cyber.dabamos.de/88x31/vim.gif" />
+  <img src="https://cyber.dabamos.de/88x31/nano.gif" />
   <img src="https://cyber.dabamos.de/88x31/arch.gif" />
   <img src="https://cyber.dabamos.de/88x31/c.gif" />
   <img src="https://cyber.dabamos.de/88x31/python.gif" />
