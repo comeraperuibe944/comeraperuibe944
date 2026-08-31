@@ -164,6 +164,19 @@
   <img src="https://img.shields.io/badge/Kinect-5c0064?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIgNmgyMGExIDEgMCAwMTEgMXY0YTEgMSAwIDAxLTEgMUgyYTEgMSAwIDAxLTEtMVY3YTEgMSAwIDAxMS0xem0zIDJhMSAxIDAgMTAwIDIgMSAxIDAgMDAwLTJ6bTQgMGExIDEgMCAxMDAgMiAxIDEgMCAwMDAtMnptMTAgMGExLjUgMS41IDAgMTAwIDMgMS41IDEuNSAwIDAwMC0zem0tOSA1aDR2M2gydjJIOHYtMmgydi0zeiIvPjwvc3ZnPg%3D%3D" />
 </p>
 
+## [ <img src="https://cdn.simpleicons.org/github/white" width="20" align="top" /> Open Source Systems, Tools & Low-Level Projects ]
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[BrowserTracker](https://github.com/comeraperuibe944/BrowserTracker)** | In-browser NES FamiTracker clone with 2A03 synthesis and pattern matrix | `JavaScript` `WebAudio` `Chiptune` `NES` |
+| **[MiniEXE-AMD64](https://github.com/comeraperuibe944/MiniEXE-AMD64)** | Handcrafted minimal portable Windows PE64 executable in pure x86-64 assembly | `x86-64 Assembly` `NASM` `PE32+` |
+| **[GameBoy-VRAM-Compressor](https://github.com/comeraperuibe944/GameBoy-VRAM-Compressor)** | Game Boy 8x8 VRAM tile optimizer, deduplicator and frequency quantizer | `Python` `NumPy` `PIL` `Game Boy` |
+| **[GameBoy-Live-RAM-Viewer](https://github.com/comeraperuibe944/GameBoy-Live-RAM-Viewer)** | Real-time interactive Game Boy memory inspector ($C000-$E000) using PyBoy | `Python` `PyBoy` `Pygame` `Emulation` |
+| **[SNES-SuperFX-3D](https://github.com/comeraperuibe944/SNES-SuperFX-3D)** | Super Nintendo Super FX RISC coprocessor 3D polygon renderer & Mode 7 experiments | `65816 Assembly` `GSU ASM` `SNES` |
+| **[Dual-GameBoy-Sync](https://github.com/comeraperuibe944/Dual-GameBoy-Sync)** | Synchronized side-by-side execution of two Game Boy emulator sessions | `Python` `Pygame` `Emulation` |
+
+---
+
 ## [ <img src="https://cdn.simpleicons.org/blueprint/white" width="20" align="top" /> Featured Work & Deployments ]
 
 <table align="center" style="border-collapse: collapse;">
