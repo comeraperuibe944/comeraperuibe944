@@ -112,6 +112,38 @@
   </tr>
 </table>
 
+## [ <img src="https://cdn.simpleicons.org/nintendo/white" width="20" align="top" /> Retro Emulation & Gaming ]
+
+<p>
+  I am profoundly passionate about <strong>Retro Emulation and Chiptune music</strong>. From exploring the 8-bit audio channels of the NES (Famicom) and Game Boy, to running full emulation stacks for classic 3D graphics, my fascination with low-level systems is heavily inspired by video game hardware history.
+</p>
+
+### 👾 Hardware & Emulation Targets
+<p align="left">
+  <!-- Nintendo -->
+  <img src="https://img.shields.io/badge/NES-E4000F?style=for-the-badge&logo=nintendo&logoColor=white" />
+  <img src="https://img.shields.io/badge/SNES-E4000F?style=for-the-badge&logo=nintendo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game_Boy-8B8B8B?style=for-the-badge&logo=nintendo&logoColor=white" />
+  <img src="https://img.shields.io/badge/GBA-551A8B?style=for-the-badge&logo=nintendo&logoColor=white" />
+  <img src="https://img.shields.io/badge/N64-000000?style=for-the-badge&logo=nintendo&logoColor=white" />
+  <img src="https://img.shields.io/badge/GameCube-6A5ACD?style=for-the-badge&logo=nintendogamecube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nintendo_DS-404040?style=for-the-badge&logo=nintendo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nintendo_3DS-CE181E?style=for-the-badge&logo=nintendo3ds&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white" />
+  
+  <!-- Sega -->
+  <img src="https://img.shields.io/badge/Mega_Drive-0089CF?style=for-the-badge&logo=sega&logoColor=white" />
+  
+  <!-- PlayStation -->
+  <img src="https://img.shields.io/badge/PS1-A9A9A9?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/PS2-003791?style=for-the-badge&logo=playstation2&logoColor=white" />
+  <img src="https://img.shields.io/badge/PSP-000000?style=for-the-badge&logo=playstationvita&logoColor=white" />
+  
+  <!-- Xbox -->
+  <img src="https://img.shields.io/badge/Xbox_360-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kinect-5c0064?style=for-the-badge&logo=xbox&logoColor=white" />
+</p>
+
 ## [ <img src="https://cdn.simpleicons.org/blueprint/white" width="20" align="top" /> Featured Work & Deployments ]
 
 <table align="center" style="border-collapse: collapse;">
