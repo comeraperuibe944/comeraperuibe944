@@ -12,7 +12,7 @@
   <img src="https://cdn.simpleicons.org/rust/white" width="16" /> My technical experience spans across <strong>Systems Programming, API Design, and High-Throughput Data Processing</strong>.<br><br>
   <img src="https://cdn.simpleicons.org/docker/white" width="16" /> I design and maintain highly available environments utilizing <strong>Containers, Kubernetes, and Modern DevOps Practices</strong>.<br><br>
   <img src="https://cdn.simpleicons.org/assemblyscript/white" width="16" /> Continually expanding my knowledge in <strong>Distributed Systems, WebAssembly, and Automation</strong> to deliver robust engineering solutions.<br><br>
-  <img src="https://cdn.simpleicons.org/scratch/white" width="16" /> Started my journey as a highly popular <strong>Scratch Creator</strong>, which ignited my lifelong passion for game development and logic.
+  <img src="https://cdn.simpleicons.org/scratch/white" width="16" /> Started my journey as a <strong>Scratch Creator</strong>, which ignited my lifelong passion for game development and logic.
 </p>
 
 ## [ <img src="https://cdn.simpleicons.org/codesandbox/white" width="20" align="top" /> Tech Stack ]
