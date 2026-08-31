@@ -1,4 +1,4 @@
-<h1 align="center">
+﻿<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=38BDAE&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+comeraperuibe944;Senior+Software+Engineer;Systems+Architecture;Cloud+Infrastructure;Full-Stack+Development" alt="Typing SVG" />
 </h1>
 
@@ -112,7 +112,7 @@
   </tr>
 </table>
 
-## [ <img src="https://cdn.simpleicons.org/nintendo/white" width="20" align="top" /> Retro Emulation & Gaming ]
+## [ <img src="https://cdn.simpleicons.org/retroarch/white" width="20" align="top" /> Retro Emulation & Gaming ]
 
 <p>
   I am profoundly passionate about <strong>Retro Emulation and Chiptune music</strong>. From exploring the 8-bit audio channels of the NES (Famicom) and Game Boy, to running full emulation stacks for classic 3D graphics, my fascination with low-level systems is heavily inspired by video game hardware history.
@@ -121,15 +121,15 @@
 ### 👾 Hardware & Emulation Targets
 <p align="left">
   <!-- Nintendo -->
-  <img src="https://img.shields.io/badge/NES-E4000F?style=for-the-badge&logo=nintendo&logoColor=white" />
-  <img src="https://img.shields.io/badge/SNES-E4000F?style=for-the-badge&logo=nintendo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game_Boy-8B8B8B?style=for-the-badge&logo=nintendo&logoColor=white" />
-  <img src="https://img.shields.io/badge/GBA-551A8B?style=for-the-badge&logo=nintendo&logoColor=white" />
-  <img src="https://img.shields.io/badge/N64-000000?style=for-the-badge&logo=nintendo&logoColor=white" />
-  <img src="https://img.shields.io/badge/GameCube-6A5ACD?style=for-the-badge&logo=nintendogamecube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nintendo_DS-404040?style=for-the-badge&logo=nintendo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nintendo_3DS-CE181E?style=for-the-badge&logo=nintendo3ds&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white" />
+  <img src="https://img.shields.io/badge/NES-E4000F?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIgNWgyMHYxNEgyem0yIDJ2MTBoMTZWN3ptMiA0aDJWOWgydjJoMnYyaC0ydjJIOHYtMkg2em04IDFhMSAxIDAgMTAwLTIgMSAxIDAgMDAwIDJ6bTMgMGExIDEgMCAxMDAtMiAxIDEgMCAwMDAgMnoiLz48L3N2Zz4%3D" />
+  <img src="https://img.shields.io/badge/SNES-E4000F?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTYgNmE2IDYgMCAwMC02IDYgNiA2IDAgMDA2IDZoMTJhNiA2IDAgMDA2LTYgNiA2IDAgMDAtNi02SDZ6bTAgMmgxMmE0IDQgMCAwMTQgNCA0IDQgMCAwMS00IDRINmE0IDQgMCAwMS00LTQgNCA0IDAgMDE0LTR6bS0xIDNoMnYtMmgydjJoMnYySDl2Mkg3di0ySDV6bTEyIDBhMS4yIDEuMiAwIDEwMC0yLjQgMS4yIDEuMiAwIDAwMCAyLjR6bTIgMmExLjIgMS4yIDAgMTAwLTIuNCAxLjIgMS4yIDAgMDAwIDIuNHptLTQgMGExLjIgMS4yIDAgMTAwLTIuNCAxLjIgMS4yIDAgMDAwIDIuNHptMiAyYTEuMiAxLjIgMCAxMDAtMi40IDEuMiAxLjIgMCAwMDAgMi40eiIvPjwvc3ZnPg%3D%3D" />
+  <img src="https://img.shields.io/badge/Game_Boy-8B8B8B?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTUgMmgxNGEyIDIgMCAwMTIgMnYxM2E0IDQgMCAwMS00IDRINWEyIDIgMCAwMS0yLTJWNGEyIDIgMCAwMTItMnptMSAzdjdoMTJWNUg2em0yIDloMXYtMWgxdjFoMXYxSDl2MUg4di0xSDd2LTF6bTggMGExIDEgMCAxMDAtMiAxIDEgMCAwMDAgMnptMiAyYTEgMSAwIDEwMC0yIDEgMSAwIDAwMCAyeiIvPjwvc3ZnPg%3D%3D" />
+  <img src="https://img.shields.io/badge/GBA-551A8B?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTQgNmEzIDMgMCAwMC0zIDN2NmEzIDMgMCAwMDMgM2gxNmEzIDMgMCAwMDMtM1Y5YTMgMyAwIDAwLTMtM0g0em0zIDNoMTB2Nkg3Vjl6bS00IDJoMXYtMWgxdjFoMXYxSDV2MUg0di0xSDN2LTF6bTE3IDBhMSAxIDAgMTAwLTIgMSAxIDAgMDAwIDJ6bTEuNSAyYTEgMSAwIDEwMC0yIDEgMSAwIDAwMCAyeiIvPjwvc3ZnPg%3D%3D" />
+  <img src="https://img.shields.io/badge/N64-000000?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTMgNGMtMSAwLTIgMS0yIDJ2NWMwIDMgMS41IDYgMyA4IDEgMS4zIDIgMSAyLTFWOWgydjEyYzAgMiAxIDIgMiAyczIgMCAyLTJWOWgydjljMCAyIDEgMi4zIDIgMSAxLjUtMiAzLTUgMy04VjZjMC0xLTEtMi0yLTJIM3ptOSA3YTIgMiAwIDEwMC00IDIgMiAwIDAwMCA0eiIvPjwvc3ZnPg%3D%3D" />
+  <img src="https://img.shields.io/badge/GameCube-6A5ACD?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTQgNWMtMi4yIDAtNCAxLjgtNCA0djVjMCAzLjUgMiA2IDQgNiAxLjUgMCAyLjUtMSAzLTNoMTBjLjUgMiAxLjUgMyAzIDMgMiAwIDQtMi41IDQtNlY5YzAtMi4yLTEuOC00LTQtNEg0em0yIDNhMi41IDIuNSAwIDExMCA1IDIuNSAyLjUgMCAwMTAtNXptMTIgMWEyIDIgMCAxMTAgNCAyIDIgMCAwMTAtNHoiLz48L3N2Zz4%3D" />
+  <img src="https://img.shields.io/badge/Nintendo_DS-404040?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTQgMmgxNmEyIDIgMCAwMTIgMnY3SDJWNGEyIDIgMCAwMTItMnptMyAydjVoMTBWNEg3em0tMyA5aDE4djdhMiAyIDAgMDEtMiAySDRhMiAyIDAgMDEtMi0ydi03em0zIDJ2NWgxMHYtNUg3eiIvPjwvc3ZnPg%3D%3D" />
+  <img src="https://img.shields.io/badge/Nintendo_3DS-CE181E?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTMgMmgxOGEyIDIgMCAwMTIgMnY3SDFWNGEyIDIgMCAwMTItMnptMiAydjVoMTRWNEg1em0tMiA5aDE4djdhMiAyIDAgMDEtMiAySDNhMiAyIDAgMDEtMi0ydi03em00IDJ2NWgxMHYtNUg3eiIvPjwvc3ZnPg%3D%3D" />
+  <img src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTggMmg4YTIgMiAwIDAxMiAydjE2YTIgMiAwIDAxLTIgMkg4YTIgMiAwIDAxLTItMlY0YTIgMiAwIDAxMi0yem00IDJhMiAyIDAgMTAwIDQgMiAyIDAgMDAwLTR6bS0xIDZoMnYyaC0yem0wIDNoMnYyaC0yem0tMiA1YS44LjggMCAxMDAgMS42LjguOCAwIDAwMC0xLjZ6bTIgMGEuOC44IDAgMTAwIDEuNi44LjggMCAwMDAtMS42em0yIDBhLjguOCAwIDEwMCAxLjYuOC44IDAgMDAwLTEuNnoiLz48L3N2Zz4%3D" />
   
   <!-- Sega -->
   <img src="https://img.shields.io/badge/Mega_Drive-0089CF?style=for-the-badge&logo=sega&logoColor=white" />
@@ -137,11 +137,11 @@
   <!-- PlayStation -->
   <img src="https://img.shields.io/badge/PS1-A9A9A9?style=for-the-badge&logo=playstation&logoColor=white" />
   <img src="https://img.shields.io/badge/PS2-003791?style=for-the-badge&logo=playstation2&logoColor=white" />
-  <img src="https://img.shields.io/badge/PSP-000000?style=for-the-badge&logo=playstationvita&logoColor=white" />
+  <img src="https://img.shields.io/badge/PSP-000000?style=for-the-badge&logo=playstationportable&logoColor=white" />
   
   <!-- Xbox -->
-  <img src="https://img.shields.io/badge/Xbox_360-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kinect-5c0064?style=for-the-badge&logo=xbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xbox_360-107C10?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTUgNWMtMi41IDAtNC41IDItNC41IDQuNSAwIDMgMS41IDcgMy41IDkuNSAxIDEuMiAyLjUgMSAzLTFsMS0zaDhsMSAzYy41IDIgMiAyLjIgMyAxIDItMi41IDMuNS02LjUgMy41LTkuNUMyMy41IDcgMjEuNSA1IDE5IDVINXptNyAzYTIgMiAwIDExMCA0IDIgMiAwIDAxMC00eiIvPjwvc3ZnPg%3D%3D" />
+  <img src="https://img.shields.io/badge/Kinect-5c0064?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIgNmgyMGExIDEgMCAwMTEgMXY0YTEgMSAwIDAxLTEgMUgyYTEgMSAwIDAxLTEtMVY3YTEgMSAwIDAxMS0xem0zIDJhMSAxIDAgMTAwIDIgMSAxIDAgMDAwLTJ6bTQgMGExIDEgMCAxMDAgMiAxIDEgMCAwMDAtMnptMTAgMGExLjUgMS41IDAgMTAwIDMgMS41IDEuNSAwIDAwMC0zem0tOSA1aDR2M2gydjJIOHYtMmgydi0zeiIvPjwvc3ZnPg%3D%3D" />
 </p>
 
 ## [ <img src="https://cdn.simpleicons.org/blueprint/white" width="20" align="top" /> Featured Work & Deployments ]
@@ -202,3 +202,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdae&height=100&section=footer"/>
 </p>
+
