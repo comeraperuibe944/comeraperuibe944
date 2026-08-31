@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" />
+  <img src="https://img.shields.io/badge/GBVM-4B0082?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTUgMmgxNGEyIDIgMCAwMTIgMnYxM2E0IDQgMCAwMS00IDRINWEyIDIgMCAwMS0yLTJWNGEyIDIgMCAwMTItMnptMSAzdjdoMTJWNUg2em0yIDloMXYtMWgxdjFoMXYxSDl2MUg4di0xSDd2LTF6bTggMGExIDEgMCAxMDAtMiAxIDEgMCAwMDAgMnptMiAyYTEgMSAwIDEwMC0yIDEgMSAwIDAwMCAyeiIvPjwvc3ZnPg%3D%3D" />
 </p>
 
 ### Frontend Web & UI
