@@ -1,4 +1,4 @@
-﻿<h1 align="center">
+﻿﻿<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=38BDAE&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+comeraperuibe944;Software+Engineering+Student;Systems+Architecture;Cloud+Infrastructure;Full-Stack+Development" alt="Typing SVG" />
 </h1>
 
@@ -105,7 +105,11 @@
       Developing IoT automation and pushing custom firmwares to <a href="https://m5burner.m5stack.com/">M5Burner</a>.
     </td>
     <td align="center" width="50%">
-      <img src="https://web.archive.org/web/20090829151527im_/http://geocities.com/SunsetStrip/Arena/8086/flames.gif" width="150" height="20" />
+      <a href="https://github.com/comeraperuibe944/comeraperuibe944/raw/main/koopab.mp4">
+        <img src="./oscilloscope.gif" width="280" alt="Koopa Beach Oscilloscope Visualizer" style="border-radius: 6px;" />
+      </a>
+      <br>
+      <img src="https://web.archive.org/web/20090829151527im_/http://geocities.com/SunsetStrip/Arena/8086/flames.gif" width="120" height="16" />
       <br><strong>Chiptune & GameDev</strong><br>
       Core Contributor & Composer for the <a href="https://blaqberry.itch.io/undertale-gbc">Undertale GB (GBC)</a> project and active maintainer of a modified <strong>FamiStudio Fork</strong> for custom audio synthesis.
     </td>
@@ -202,4 +206,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdae&height=100&section=footer"/>
 </p>
+
 
