@@ -15,7 +15,7 @@
   <img src="https://cdn.simpleicons.org/scratch/white" width="16" /> Started my journey as a <strong>Scratch Creator</strong>, which ignited my lifelong passion for game development and logic.
 </p>
 
-## [ <img src="https://api.iconify.design/tabler:stack-push.svg?color=white" width="20" align="top" /> Tech Stack ]
+## [ <img src="./stack.svg" width="20" align="top" /> Tech Stack ]
 
 ### Low-Level & Systems
 <p align="left">
