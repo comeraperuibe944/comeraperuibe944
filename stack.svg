@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m6 10l-2 1l8 4l8-4l-2-1M4 15l8 4l8-4M12 4v7"/><path d="m15 8l-3 3l-3-3"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Tilted top disk (about to fall on top) -->
+  <g transform="rotate(-16 12 4.5)">
+    <ellipse cx="12" cy="4.5" rx="7.5" ry="2.3" />
+    <path d="M4.5 4.5v2.2a7.5 2.3 0 0 0 15 0V4.5" />
+  </g>
+  <!-- Base database cylinder stack -->
+  <ellipse cx="12" cy="12" rx="8" ry="2.5" />
+  <path d="M4 12v6a8 2.5 0 0 0 16 0v-6" />
+  <path d="M4 15a8 2.5 0 0 0 16 0" />
+</svg>
