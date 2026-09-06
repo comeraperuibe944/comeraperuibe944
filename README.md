@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly_(AMD64)-6E4C13?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly_(x86)-6E4C13?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/Verilog-2C3E50?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj48cmVjdCB4PSI1IiB5PSI1IiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHJ4PSIyIi8%2BPHBhdGggZD0iTTkgOWg2djZIOXoiLz48cGF0aCBkPSJNOSAxdjRNMTUgMXY0TTkgMTl2NE0xNSAxOXY0TTEgOWg0TTEgMTVoNE0xOSA5aDRNMTkgMTVoNCIvPjwvc3ZnPg%3D%3D&logoColor=white" />
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
