@@ -169,36 +169,35 @@
 
 <table align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center" colspan="2" style="padding: 12px;">
+    <td align="center" width="50%">
       <a href="https://comeraperuibe944.github.io/chat/">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=131314&text=zkchat%20::%20Zero-Knowledge%20Git%20Relay%20Protocol%20(ZK-GRP)&fontSize=18&fontColor=a8c7fa&fontAlign=50&fontAlignY=50&height=70&stroke=38bdae&strokeWidth=1" width="100%" alt="zkchat Protocol" style="border-radius: 6px;" />
+        <img src="./zkchat.png" width="400" alt="zkchat" style="border-radius: 8px;" />
       </a>
-      <br><strong>zkchat - Zero-Knowledge Git Relay Protocol (ZK-GRP)</strong>
-      <br>Serverless, peer-to-peer encrypted chat protocol utilizing client-side Web Crypto (AES-256-GCM, ECDSA P-256), WebAssembly Hashcash Proof-of-Work, and Git-as-a-Datastore.
+      <br><strong>zkchat (Zero-Knowledge Protocol)</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="http://168.138.128.160/">
         <img src="./dashboard.png" width="400" alt="Oracle Dashboard" style="border-radius: 8px;" />
       </a>
       <br><strong>Cloud Server Dashboard & Web PTY</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://cepin-jcr.github.io/mapeamento-cultural/">
         <img src="./mapa.png" width="400" alt="Mapeamento Cultural" style="border-radius: 8px;" />
       </a>
       <br><strong>Mapeamento Cultural</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://cepin-jcr.github.io/carnaval-feminino/">
         <img src="./carnaval.png" width="400" alt="Carnaval Feminino" style="border-radius: 8px;" />
       </a>
       <br><strong>Carnaval Feminino (Interactive Web)</strong>
     </td>
-    <td align="center" width="50%">
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <a href="https://blaqberry.itch.io/undertale-gbc">
         <img src="./undertale.png" width="400" alt="Undertale GB" style="border-radius: 8px;" />
       </a>
