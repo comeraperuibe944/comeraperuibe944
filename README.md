@@ -33,6 +33,7 @@
 
 ### Frontend, Mobile & UI Frameworks
 <p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Flet-007ACC?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -167,6 +168,15 @@
 ## [ <img src="https://cdn.simpleicons.org/blueprint/white" width="20" align="top" /> Featured Work & Deployments ]
 
 <table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" colspan="2" style="padding: 12px;">
+      <a href="https://comeraperuibe944.github.io/chat/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=131314&text=zkchat%20::%20Zero-Knowledge%20Git%20Relay%20Protocol%20(ZK-GRP)&fontSize=18&fontColor=a8c7fa&fontAlign=50&fontAlignY=50&height=70&stroke=38bdae&strokeWidth=1" width="100%" alt="zkchat Protocol" style="border-radius: 6px;" />
+      </a>
+      <br><strong>zkchat - Zero-Knowledge Git Relay Protocol (ZK-GRP)</strong>
+      <br>Serverless, peer-to-peer encrypted chat protocol utilizing client-side Web Crypto (AES-256-GCM, ECDSA P-256), WebAssembly Hashcash Proof-of-Work, and Git-as-a-Datastore.
+    </td>
+  </tr>
   <tr>
     <td align="center" width="50%">
       <a href="http://168.138.128.160/">
