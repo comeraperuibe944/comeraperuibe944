@@ -8,11 +8,11 @@
 
 ## [ <img src="https://cdn.simpleicons.org/gnubash/white" width="20" align="top" /> About Me ]
 <p>
-  🎓 Final-year <strong>Systems Analysis and Development (ADS)</strong> undergraduate at <strong>IFSP (Federal Institute of São Paulo)</strong>.<br><br>
-  💻 <strong>Full Stack Developer</strong> specializing in web applications, backend APIs, and automation using <strong>Python, JavaScript, and C++</strong>.<br><br>
-  🐧 Hands-on experience with <strong>Linux environments, Docker containerization, reverse proxies (Nginx), and Cloud Infrastructure (Oracle Cloud)</strong>.<br><br>
-  ⚡ Passionate about <strong>Computer Architecture, Embedded Systems (ESP32, M5StickC), and Hardware Optimization</strong>.<br><br>
-  📍 <strong>Location:</strong> Brazil &bull; Open for Remote & Hybrid Junior / Internship Opportunities.
+  <img src="https://cdn.simpleicons.org/linux/white" width="16" /> Final-year <strong>Systems Analysis and Development (ADS)</strong> undergraduate at <strong>IFSP (Federal Institute of São Paulo)</strong>.<br><br>
+  <img src="https://cdn.simpleicons.org/python/white" width="16" /> <strong>Full Stack Developer</strong> specializing in web applications, backend APIs, and automation using <strong>Python, JavaScript, and C++</strong>.<br><br>
+  <img src="https://cdn.simpleicons.org/docker/white" width="16" /> Hands-on experience with <strong>Linux environments, Docker containerization, reverse proxies (Nginx), and Cloud Infrastructure (Oracle Cloud)</strong>.<br><br>
+  <img src="https://cdn.simpleicons.org/espressif/white" width="16" /> Passionate about <strong>Computer Architecture, Embedded Systems (ESP32, M5StickC), and Hardware Optimization</strong>.<br><br>
+  <img src="https://cdn.simpleicons.org/gnubash/white" width="16" /> <strong>Location:</strong> Brazil | Open for Remote and Hybrid Junior and Internship Opportunities.
 </p>
 
 ## [ <img src="./stack.svg" width="20" align="top" /> Tech Stack ]
@@ -60,21 +60,37 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⭐ <a href="https://github.com/comeraperuibe944/JDWebcam">JDWebcam</a></h3>
+      <h3><img src="https://cdn.simpleicons.org/github/white" width="18" align="top" /> <a href="https://github.com/comeraperuibe944/JDWebcam">JDWebcam</a></h3>
       <p>Transforms regular webcams into virtual motion controllers via computer vision in Python. Enables direct gameplay without external sensor hardware.</p>
       <p><strong>Technologies:</strong> Python, Computer Vision, Virtual Input Emulation</p>
     </td>
     <td width="50%" valign="top">
-      <h3>⭐ <a href="https://github.com/comeraperuibe944/StickController">StickController</a></h3>
+      <h3><img src="https://cdn.simpleicons.org/github/white" width="18" align="top" /> <a href="https://github.com/comeraperuibe944/StickController">StickController</a></h3>
       <p>Custom C++ embedded firmware that turns an M5StickC Plus2 into an Xbox input controller with wireless access point connectivity.</p>
       <p><strong>Technologies:</strong> C++, ESP32, Embedded Systems, Wi-Fi Networking</p>
     </td>
   </tr>
 </table>
 
-## [ <img src="https://cdn.simpleicons.org/blueprint/white" width="20" align="top" /> Featured Deployments & Web Applications ]
+## [ <img src="https://cdn.simpleicons.org/blueprint/white" width="20" align="top" /> Featured Work & Deployments ]
 
 <table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://blaqberry.itch.io/undertale-gbc">
+        <img src="./undertale.png" width="400" alt="Undertale GB" style="border-radius: 8px;" />
+      </a>
+      <br><strong>Undertale GB (GameDev & Chiptune)</strong>
+      <br><span>Core Contributor & Composer for Undertale Game Boy Color project. Custom audio synthesis and retro demake.</span>
+    </td>
+    <td align="center" width="50%">
+      <a href="http://168.138.128.160/">
+        <img src="./dashboard.png" width="400" alt="Oracle Dashboard" style="border-radius: 8px;" />
+      </a>
+      <br><strong>Cloud Server Dashboard & Web PTY</strong>
+      <br><span>Production server manager with interactive WebSocket terminal, FastAPI, and Nginx on Oracle Cloud.</span>
+    </td>
+  </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://comeraperuibe944.github.io/chat/">
@@ -84,27 +100,20 @@
       <br><span>Encrypted peer-to-peer web chat with client-side cryptography.</span>
     </td>
     <td align="center" width="50%">
-      <a href="http://168.138.128.160/">
-        <img src="./dashboard.png" width="400" alt="Oracle Dashboard" style="border-radius: 8px;" />
-      </a>
-      <br><strong>Cloud Server Dashboard & Web PTY</strong>
-      <br><span>Production server manager with interactive WebSocket terminal, FastAPI, and Nginx.</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
       <a href="https://cepin-jcr.github.io/mapeamento-cultural/">
         <img src="./mapa.png" width="400" alt="Mapeamento Cultural" style="border-radius: 8px;" />
       </a>
       <br><strong>Mapeamento Cultural</strong>
       <br><span>Interactive cultural mapping web application with geo-coordinates and search.</span>
     </td>
-    <td align="center" width="50%">
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <a href="https://cepin-jcr.github.io/carnaval-feminino/">
         <img src="./carnaval.png" width="400" alt="Carnaval Feminino" style="border-radius: 8px;" />
       </a>
       <br><strong>Carnaval Feminino</strong>
-      <br><span>Interactive cultural narrative platform developed for public community engagement.</span>
+      <br><span>Interactive cultural narrative platform developed for community engagement.</span>
     </td>
   </tr>
 </table>
