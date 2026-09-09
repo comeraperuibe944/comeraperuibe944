@@ -209,8 +209,7 @@
 ## [ <img src="https://cdn.simpleicons.org/googleanalytics/white" width="20" align="top" /> Overview & Activity ]
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=comeraperuibe944&theme=tokyonight&hide_border=true&title_color=38bdae&icon_color=38bdae&background=1a1b27" alt="Streak" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=comeraperuibe944&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=38bdae&line=38bdae&point=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=comeraperuibe944&theme=tokyonight&hide_border=true&title_color=38bdae&icon_color=38bdae&background=1a1b27" alt="Streak" />
 </p>
 
 <p align="center">
