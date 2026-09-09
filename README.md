@@ -11,7 +11,7 @@
   <img src="https://cdn.simpleicons.org/linux/white" width="16" /> Final-year <strong>Systems Analysis and Development (ADS)</strong> undergraduate at <strong>IFSP (Federal Institute of São Paulo)</strong>.<br><br>
   <img src="https://cdn.simpleicons.org/python/white" width="16" /> <strong>Full Stack Developer</strong> specializing in web applications, backend APIs, and automation using <strong>Python, JavaScript, and C++</strong>.<br><br>
   <img src="https://cdn.simpleicons.org/docker/white" width="16" /> Hands-on experience with <strong>Linux environments, Docker containerization, reverse proxies (Nginx), and Cloud Infrastructure (Oracle Cloud)</strong>.<br><br>
-  <img src="https://cdn.simpleicons.org/espressif/white" width="16" /> Passionate about <strong>Computer Architecture, Embedded Systems (ESP32, M5StickC), and Hardware Optimization</strong>.<br><br>
+  <img src="https://cdn.simpleicons.org/arduino/white" width="16" /> Passionate about <strong>Computer Architecture, Embedded Systems (ESP32, M5StickC), and Hardware Optimization</strong>.<br><br>
   <img src="https://cdn.simpleicons.org/gnubash/white" width="16" /> <strong>Location:</strong> Brazil | Open for Remote and Hybrid Junior and Internship Opportunities.
 </p>
 
