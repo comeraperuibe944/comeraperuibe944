@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=38BDAE&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+comeraperuibe944;Full+Stack+Developer;Software+Engineering+Student+at+IFSP;Python+%7C+JavaScript+%7C+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=F1C40F&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+comeraperuibe944;Full+Stack+Developer;Software+Engineering+Student+at+IFSP;Python+%7C+JavaScript+%7C+C%2B%2B" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=comeraperuibe944&label=Profile%20views&color=38bdae&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=comeraperuibe944&label=Profile%20views&color=F1C40F&style=flat" alt="Views" />
 </p>
 
 ## [ <img src="https://cdn.simpleicons.org/gnubash/white" width="20" align="top" /> About Me ]
@@ -155,7 +155,7 @@
 ## [ <img src="https://cdn.simpleicons.org/googleanalytics/white" width="20" align="top" /> Activity & Contributions ]
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=comeraperuibe944&theme=tokyonight&hide_border=true&title_color=38bdae&icon_color=38bdae&background=1a1b27" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=comeraperuibe944&theme=tokyonight&hide_border=true&title_color=F1C40F&icon_color=F1C40F&background=1a1b27" alt="Streak" />
 </p>
 
 <picture>
@@ -173,5 +173,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdae&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F1C40F&height=100&section=footer"/>
 </p>
