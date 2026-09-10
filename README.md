@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=38BDAE&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+comeraperuibe944;Full+Stack+Developer;ADS+Student+at+IFSP;Python+%7C+JavaScript+%7C+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=38BDAE&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+comeraperuibe944;Full+Stack+Developer;Software+Engineering+Student+at+IFSP;Python+%7C+JavaScript+%7C+C%2B%2B" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ## [ <img src="https://cdn.simpleicons.org/gnubash/white" width="20" align="top" /> About Me ]
 <p>
-  <img src="https://cdn.simpleicons.org/linux/white" width="16" /> Final-year <strong>Systems Analysis and Development (ADS)</strong> undergraduate at <strong>IFSP (Federal Institute of São Paulo)</strong>.<br><br>
+  <img src="https://cdn.simpleicons.org/linux/white" width="16" /> Final-year <strong>Software Engineering</strong> undergraduate at <strong>IFSP (Federal Institute of São Paulo)</strong>.<br><br>
   <img src="https://cdn.simpleicons.org/python/white" width="16" /> <strong>Full Stack Developer</strong> specializing in web applications, backend APIs, and automation using <strong>Python, JavaScript, and C++</strong>.<br><br>
   <img src="https://cdn.simpleicons.org/docker/white" width="16" /> Hands-on experience with <strong>Linux environments, Docker containerization, reverse proxies (Nginx), and Cloud Infrastructure (Oracle Cloud)</strong>.<br><br>
   <img src="https://cdn.simpleicons.org/arduino/white" width="16" /> Passionate about <strong>Computer Architecture, Embedded Systems (ESP32, M5StickC), and Hardware Optimization</strong>.<br><br>
